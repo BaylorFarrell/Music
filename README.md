@@ -1,2 +1,2 @@
 # Music
-Playboi Carti's Music Album releases with the according metadata.
+Playboi Carti's 'Music' album releases with the accompanying metadata.
